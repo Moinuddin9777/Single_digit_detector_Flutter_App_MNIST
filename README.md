@@ -1,5 +1,8 @@
 ### Single digit predictor app that uses machine learning to predict the user painted digit 
-\image.png
+
+![image](https://user-images.githubusercontent.com/76849575/208238743-5c8eeff2-8a39-4381-9be6-a79d92698059.png)
+
+
 ### Flutter app powered by TensorFlow
   
   - Uses MNIST dataset 
